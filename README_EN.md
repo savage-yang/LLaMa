@@ -1,5 +1,7 @@
 # LLaMA Model Architecture Explained
 
+🌍 [中文版本](./README.md) | English Version
+
 A modular breakdown of the four major architectural improvements of LLaMA compared to GPT (RMSNorm / RoPE / SwiGLU / GQA), from mathematical formulas to code skeletons, providing a comprehensive understanding of the design motivation behind each improvement.
 ---
 
